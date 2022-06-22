@@ -322,3 +322,5 @@ You'll also find more advanced labs.
 ## Assignment 
 
 Complete [the First Week on GitHub training lab](https://lab.github.com/githubtraining/first-week-on-github)
+
+cd ..  <-- untuk keluar dari repo
